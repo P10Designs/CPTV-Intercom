@@ -1,0 +1,20 @@
+{
+  "name": "CPTV-Intercom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P10Designs/CPTV-Intercom.git"
+  },
+  "keywords": [],
+  "author": "P10Designs <designs.p10@gmail.com> (http://p10designs.store/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/P10Designs/CPTV-Intercom/issues"
+  },
+  "homepage": "https://github.com/P10Designs/CPTV-Intercom#readme"
+}
