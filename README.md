@@ -1,5 +1,7 @@
 # CPTV-Intercom
 
+[!LAST COMMIT](https://img.shields.io/github/last-commit/P10Designs/CPTV-Intercom)
+
 - [ ] SERVER
   - Server side that handles communication between users.
   * MUST HAVE:
